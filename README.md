@@ -412,6 +412,3 @@ Get and install certificates using interactive prompt
 sudo certbot --nginx
 ```
 
-## Authors
-
-- **Sanjeev Thiyagarajan** - _CEO of Nothing_
